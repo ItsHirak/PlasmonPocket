@@ -1,4 +1,4 @@
 PlasmonPocket
 =============
 
-Here I have stacked my own codes developed for plasmonics 
+Here I have stacked my own codes and databases developed and/or required for plasmonics 
